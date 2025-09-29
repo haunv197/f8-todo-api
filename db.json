@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "title": "Quét nhà",
+      "complete": true
+    },
+    {
+      "title": "Rửa bát",
+      "complete": false
+    },
+    {
+      "title": "Nhặt rau",
+      "complete": false
+    },
+    {
+      "title": "Nấu cơm",
+      "complete": false
+    }
+  ]
+}
