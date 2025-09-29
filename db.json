@@ -1,20 +1,24 @@
 {
   "todos": [
     {
-      "title": "Quét nhà",
-      "complete": true
+      "title": "Quét nhà, Lau nhà",
+      "complete": true,
+      "id": "8bab"
     },
     {
       "title": "Rửa bát",
-      "complete": false
+      "complete": false,
+      "id": "27e0"
     },
     {
       "title": "Nhặt rau",
-      "complete": false
+      "complete": false,
+      "id": "18c5"
     },
     {
       "title": "Nấu cơm",
-      "complete": false
+      "complete": false,
+      "id": "17c1"
     }
   ]
 }
